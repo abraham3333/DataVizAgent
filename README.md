@@ -1,4 +1,4 @@
-# Data Visualization Agent (ADK)
+# Data Visualization Agent 
 
 This project is an interactive Colab/Notebook application that generates Python code for data visualizations using the Google Gemini LLM, based on user requests, and applies it to a given dataset.
 

@@ -1,0 +1,6 @@
+google-generativeai>=0.3.0
+pandas>=2.0.0
+matplotlib>=3.4.0
+seaborn>=0.12.0
+# Only needed if running in Google Colab:
+google-colab
